@@ -1,0 +1,17 @@
+#container {
+    width: 1200px;
+    height: 1200px;
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.panel {
+    height: 0;
+    box-shadow: 0 0 0 1px #27d9b4, inset 0 0 0 1px #fff;
+}
+
+button {
+    margin: 20px;
+    padding: 5px;
+}
